@@ -1,0 +1,28 @@
+
+
+.form-text {
+  margin: 10% 25%;
+  padding: 2rem 1rem;
+  color: black;
+}
+
+h3 {
+  text-align: center;
+}
+.submit-btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  
+  
+}
+#submit-btn {
+  margin-left: 5px;
+  margin-top: 35px;
+
+}
+.checkbox{
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: flex-start !important;
+}
